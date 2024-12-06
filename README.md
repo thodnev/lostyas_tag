@@ -2,7 +2,7 @@
 # ⚠️⚠️⚠️ THE GAME IS IN AN UNPLAYABLE STATE
 as of 6 dec 2024 i ONLY STARTED porting everything and THERE IS (almost) NO CODE AT ALL.
 if you download right now you will just have a WORLD TO BUILD IN.
-### minecraft: 1.21.3 // core: papermc 1.21.3 #80
+### minecraft: 1.21.3 // core: papermc 1.21.3 #80 // java 21
 a minigame about chasing people around. this is an early alpha, most of the stuff requires admin interaction to happen
 
 pls contribute i write code like garbage
